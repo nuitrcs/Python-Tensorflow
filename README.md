@@ -51,7 +51,7 @@ General Machine Learning, Data Science, Deep learning resources:
 It is important to learn about word2vec and this is an interesting starting point:
 [Word2vec a baby step in deep learning, but a giant leap towards natural language processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 
-More specific Tensorflow related resources:
+#### More specific Tensorflow related resources:
 
 General tensorflow resources and more specific tutorials that cover multiple topics can be found on [Tensorflow Website](https://www.tensorflow.org/).  
 
