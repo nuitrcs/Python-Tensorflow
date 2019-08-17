@@ -44,7 +44,12 @@ General Machine Learning, Data Science, Deep learning resources:
 
 [Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
 
-[Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/) courses. I would strongly recommend Andrew Ng's machine learning courses. 
+[Towards Data Science](http://www.towardsdatascience.com) - Place to share concepts, ideas and code
+
+[Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/), [Kadenze](http://www.kadenze.com) courses. I would strongly recommend Andrew Ng's machine learning courses. 
+
+It is important to learn about word2vec and this is an interesting starting point:
+[Word2vec a baby step in deep learning, but a giant leap towards natural language processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 
 More specific Tensorflow related resources:
 
@@ -53,7 +58,6 @@ General tensorflow resources and more specific tutorials that cover multiple top
 [Tensorflow workshops](https://github.com/tensorflow/workshops)
 
 [More Tensorflow worskhops](https://www.easy-tensorflow.com/workshops)
-
 
 For preparing notebooks in this workshop I used the following resources:
 
