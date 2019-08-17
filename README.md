@@ -44,6 +44,8 @@ General Machine Learning, Data Science, Deep learning resources:
 
 [Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
 
+[KDnuggets](https://www.kdnuggets.com/) - A great source of news anything ML and Data Science. 
+
 [Towards Data Science](http://www.towardsdatascience.com) - Place to share concepts, ideas and code
 
 [Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/), [Kadenze](http://www.kadenze.com) courses. I would strongly recommend Andrew Ng's machine learning courses. 
