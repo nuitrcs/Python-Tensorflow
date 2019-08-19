@@ -20,7 +20,7 @@ Therefore, there is no need to install nor download anything - You will work fro
 >- Find the tab open notebook
 >- Find the tab github 
 >- Enter a following Github URL [https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
->>-It might happen that you need to open [https://github.com/nuitrcs](https://github.com/nuitrcs) and only from there to find Python-Tensorflow
+>>- It might happen that you need to open [https://github.com/nuitrcs](https://github.com/nuitrcs) and only from there to find Python-Tensorflow
 >- Open the notebook we are working on
 
 We will go through the above steps together
