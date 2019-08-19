@@ -11,6 +11,7 @@ General information about RCS Python Workshops can be found in the [Python Works
 In order to focus on Deep learning and Tensorflow characteristics and not to be distracted with the installations and possible problems with versioning or other issues, we will work from Google Colab using this repository. 
 
 Therefore, there is no need to install nor download anything - You will work from notebooks directly in the Google Colab. Following the steps below:
+- Log in to Google
 - Open Google colab following this link [https://colab.research.google.com](https://colab.research.google.com) 
 - There should be an opportunity to find Github tab and enter [https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
 - Open the notebook we are working on
@@ -19,6 +20,7 @@ Therefore, there is no need to install nor download anything - You will work fro
 >- Find the tab open notebook
 >- Find the tab github 
 >- Enter a following Github URL [https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
+>>-It might happen that you need to open [https://github.com/nuitrcs](https://github.com/nuitrcs) and only from there to find Python-Tensorflow
 >- Open the notebook we are working on
 
 We will go through the above steps together
